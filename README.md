@@ -25,6 +25,7 @@ use stack : react, html, js, css(basic), scss
 1. favicon 수정
 2. 불필요한 react 구성요소들 삭제(logo 등)
 3. meta 
+4. comment 수정
 
 # main Portfolio (제작중 21.10.12 ~)
 
