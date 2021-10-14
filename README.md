@@ -15,7 +15,7 @@ use stack : react, html, js, css(basic), scss
 2. 한눈에 나에 대해 알 수 있는 웹페이지 구성
 3. 
 
-#main Portfolio (제작중)
+# main Portfolio (제작중)
 
 use stack : html, css, js
 use library: fullpage.js , fullpage.css
@@ -27,7 +27,7 @@ use library: fullpage.js , fullpage.css
 3. 크로스 브라우징을 고려하여 normalize 사용
 
 
-#main Portfolio2 (제작중)
+# main Portfolio2 (제작중)
 
 use stack : html, css, js
 use library: bootstrap
