@@ -18,6 +18,19 @@ use stack : react, html, js, css(basic), scss
 # main Portfolio (제작중)
 
 use stack : html, css, js
+use library: bootstrap.css
+
+목적 : 바닐라 자바스크립트로 포트폴리오 제작
+
+기능 :
+1. 바닐라 자바스크립트로 페이지 이동
+2. 바닐라 자바스크립트로 스크롤시 nav메뉴 숨기기
+3. 크로스 브라우징을 고려하여 normalize 사용
+
+
+# main Portfolio2 (제작중)
+
+use stack : html, css, js
 use library: fullpage.js , fullpage.css
 목적 : 라이브러리를 사용하여 simple portfolio 제작
 
@@ -25,9 +38,3 @@ use library: fullpage.js , fullpage.css
 1. fullpage.js 이용 ( 필요한 라이브러리를 찾아서 활용 가능)
 2. 한눈에 알아보기 쉬운 포트폴리오 작성
 3. 크로스 브라우징을 고려하여 normalize 사용
-
-
-# main Portfolio2 (제작중)
-
-use stack : html, css, js
-use library: bootstrap
