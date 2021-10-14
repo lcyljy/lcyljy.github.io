@@ -18,6 +18,7 @@ use stack : react, html, js, css(basic), scss
 # main Portfolio (제작중)
 
 use stack : html, css, js
+
 use library: bootstrap.css
 
 목적 : 바닐라 자바스크립트로 포트폴리오 제작
@@ -31,7 +32,9 @@ use library: bootstrap.css
 # main Portfolio2 (제작중)
 
 use stack : html, css, js
+
 use library: fullpage.js , fullpage.css
+
 목적 : 라이브러리를 사용하여 simple portfolio 제작
 
 기능 :
