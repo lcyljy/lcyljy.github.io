@@ -1,7 +1,13 @@
 # portfolio 제작
 
 # 뭘 좋아할지 몰라서 종류별로 준비했어 Project
-# intro Portfolio (제작중)
+idea 정립 : (21.10.04 ~ 21.10.11)
+1. 포트폴리오란 결국 '나'를 판매하는 것
+2. toy project를 무엇을 할까 고민하다가 나를 표현할 수 있는 사이트(portfolio)를 다양하게 만들어보기
+3. 이력서 형태 or 웹포스터 형태의 Intro 포트폴리오 제작
+4. main Portfolio 를 바탕으로 다양한 형태의 포트폴리오 구성
+
+# intro Portfolio (제작중 21.10.12 ~) 
 
 react를 이용하여 build하여 웹페이지 호스팅
 
@@ -20,7 +26,7 @@ use stack : react, html, js, css(basic), scss
 2. 불필요한 react 구성요소들 삭제(logo 등)
 3. meta 
 
-# main Portfolio (제작중)
+# main Portfolio (제작중 21.10.13 ~)
 
 use stack : html, css, js
 
