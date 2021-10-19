@@ -22,9 +22,9 @@ use stack : react, html, js, css(basic), scss
 2. 한눈에 나에 대해 알 수 있는 웹페이지 구성
 
 *mission
-1. favicon 수정
-2. 불필요한 react 구성요소들 삭제(logo 등)
-3. meta 
+1. favicon 수정 (21.10.20 완료)
+2. 불필요한 react 구성요소들 삭제(logo 등) (21.10.20 완료)
+3. meta (21.10.20 완료)
 4. comment 수정
 
 # main Portfolio (제작중 21.10.12 ~)
