@@ -8,7 +8,7 @@ idea 정립 : (21. 09. ?? ~ )
 4. main Portfolio 를 바탕으로 다양한 형태의 포트폴리오 구성
 
 # intro Portfolio (제작중 21.10.08 ~) 
-
+file명: portfolio
 react를 이용하여 build하여 웹페이지 호스팅
 
 use stack : react, html, js, css(basic), scss
@@ -28,7 +28,7 @@ use stack : react, html, js, css(basic), scss
 4. comment 수정
 
 # main Portfolio (제작중 21.10.12 ~)
-
+file명: portfolio2
 use stack : html, css, js
 
 use library: bootstrap.css
@@ -46,7 +46,7 @@ use library: bootstrap.css
 
 
 # main Portfolio2 (제작중 21.10.13 ~)
-
+file명: portfolio3
 use stack : html, css, js
 
 use library: fullpage.js , fullpage.css
