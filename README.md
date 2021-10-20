@@ -9,6 +9,7 @@ idea 정립 : (21. 09. ?? ~ )
 
 # intro Portfolio (제작중 21.10.08 ~) 
 file명: portfolio
+
 react를 이용하여 build하여 웹페이지 호스팅
 
 use stack : react, html, js, css(basic), scss
@@ -29,6 +30,7 @@ use stack : react, html, js, css(basic), scss
 
 # main Portfolio (제작중 21.10.12 ~)
 file명: portfolio2
+
 use stack : html, css, js
 
 use library: bootstrap.css
