@@ -65,9 +65,9 @@ use library: fullpage.js , fullpage.css
 3. 크로스 브라우징을 고려하여 normalize 사용
 
 *mission
-1. point : 나를 잘 나타낼 수 있는 포인트 찾아서 작성
-2. skills : 주요 스킬들 아이콘으로 수정
-3. portfolio : 기능구현(modal, demo 미리보기, use stack표기, 주요 쟁점) 
+1. point : 나를 잘 나타낼 수 있는 포인트 찾아서 작성 
+2. skills : 주요 스킬들 아이콘으로 수정 (21.10.21 완료)
+3. portfolio : 기능구현(modal, demo 미리보기, use stack표기, 주요 쟁점) (수정중)
 4. contact me : 페이지 삭제 및 채팅창.api 이용하여 구현
 
 # main Portfolio3 (제작예정)
