@@ -69,6 +69,7 @@ use library: fullpage.js , fullpage.css
 2. skills : 주요 스킬들 아이콘으로 수정 (21.10.21 완료)
 3. portfolio : 기능구현(modal, demo 미리보기, use stack표기, 주요 쟁점) (수정중)
 4. contact me : 페이지 삭제 및 채팅창.api 이용하여 구현
+2021.11.11. 모바일이나 테블릿화면에서는 내용이 꽉차서 괜찮은데. 데스크톱으로 보면 빈 여백이 많이 남는다. 이 공간을 활용하여 정보를 보다 전달할 수는 없을까?
 
 # main Portfolio3 (제작예정)
 
